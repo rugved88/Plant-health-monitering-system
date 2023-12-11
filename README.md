@@ -8,6 +8,6 @@ Objective Achieved: Created a system to monitor soil moisture and light intensit
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=vZWT_qV5Bj4">
-    <img src="https://www.youtube.com/watch?v=vZWT_qV5Bj4/0.jpg" alt="Video Overview">
+    <img src="https://www.youtube.com/watch?v=vZWT_qV5Bj4.jpg" alt="Video Overview">
   </a>
 </p>
